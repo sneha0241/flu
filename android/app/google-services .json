@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055585273685",
+    "project_id": "campus-da425",
+    "storage_bucket": "campus-da425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055585273685:android:f0b2e77ea5e5d9bdab91dc",
+        "android_client_info": {
+          "package_name": "com.example.flu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055585273685-c01e2bghl4p0bq8lr486nahvfu5ghkv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxmzRJ3B0n8d81XUL79anJGz_YPDdXcdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055585273685-c01e2bghl4p0bq8lr486nahvfu5ghkv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
